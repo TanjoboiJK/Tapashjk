@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tapashjk
 - 👀 I’m interested in Techworld
-- 🌱 I’m currently learning  Python,java,kotlin,Maths
+- 🌱 I’m currently learning  Python,Maths
 - 💞️ I’m looking to collaborate on FANG
 - 📫 How to reach me $
 - 😄 Pronouns: HE/HIM
