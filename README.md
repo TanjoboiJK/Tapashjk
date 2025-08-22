@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Tapashjk
-- 👀 I’m interested in Techworld
-- 🌱 I’m currently learning c++, Python,Maths
-- 📫 How to reach me $
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: i am slow learner
-
+🤖 AI & Cybersecurity Enthusiast | CS Student @ SFSU  
+🔒 Exploring ethical hacking, penetration testing & security automation  
+🧠 Passionate about AI-driven threat detection & adversarial ML  
+💻 Building projects at the intersection of machine learning & cyber defense  
+🚀 Goal: Become top-tier in AI + Cybersecurity within 4 years
 
